@@ -1,0 +1,24 @@
+{
+"products" : [  
+{"id":1,"name":"Hare, arctic","category":"Fuscia"},
+{"id":2,"name":"Buttermilk snake","category":"Puce"},
+{"id":3,"name":"Civet (unidentified)","category":"Blue"},
+{"id":4,"name":"Kangaroo, eastern grey","category":"Fuscia"},
+{"id":5,"name":"Elephant, asian","category":"Puce"},
+{"id":6,"name":"Black swan","category":"Puce"},
+{"id":7,"name":"Monitor, white-throated","category":"Indigo"},
+{"id":8,"name":"Baleen whale","category":"Purple"},
+{"id":9,"name":"Cuis","category":"Goldenrod"},
+{"id":10,"name":"Chickadee, black-capped","category":"Puce"},
+{"id":11,"name":"Bontebok","category":"Pink"},
+{"id":12,"name":"Sociable weaver","category":"Puce"},
+{"id":13,"name":"Prehensile-tailed porcupine","category":"Pink"},
+{"id":14,"name":"Small-spotted genet","category":"Fuscia"},
+{"id":15,"name":"Jungle cat","category":"Yellow"},
+{"id":16,"name":"Marten, american","category":"Khaki"},
+{"id":17,"name":"Denham's bustard","category":"Yellow"},
+{"id":18,"name":"Andean goose","category":"Goldenrod"},
+{"id":19,"name":"Serval","category":"Yellow"},
+{"id":20,"name":"Frilled dragon","category":"Goldenrod"}
+]
+}
